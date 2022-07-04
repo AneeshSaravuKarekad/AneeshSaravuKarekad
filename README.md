@@ -1,7 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Aneesh. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
-
+<h1> Hi, I'm Aneesh. I do open source </h1>
 **About me**
 
 - ❤️ I love TypeScript, and building web applications with it.
