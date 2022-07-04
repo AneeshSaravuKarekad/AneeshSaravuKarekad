@@ -1,4 +1,4 @@
-<h1> Hi, I'm Aneesh. I do open source </h1>
+<h1 align='center'> Hi, I'm Aneesh</h1>
 **About me**
 
 - ❤️ I love TypeScript, and building web applications with it.
